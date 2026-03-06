@@ -139,7 +139,7 @@ bool operator>=(const Array<T,N>& lhs, const Array<T,N>& rhs) {
     return !(lhs < rhs);
 }
 
-// Внешние Методы
+// Внешние Методы 
 template <typename T, size_t N>
 void swap(Array<T,N>& lhs, Array<T,N>& rhs) noexcept {
     lhs.Swap(rhs);
