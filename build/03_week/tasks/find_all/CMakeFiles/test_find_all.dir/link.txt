@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/test_find_all.dir/test.cpp.o -o ../../../tasks/test_find_all  ../../../lib/libgtest.a ../../../lib/libgmock.a ../../../lib/libgtest_main.a ../../../lib/libgtest.a 

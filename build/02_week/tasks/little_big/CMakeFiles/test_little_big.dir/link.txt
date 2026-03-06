@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/test_little_big.dir/test.cpp.o -o ../../../tasks/test_little_big  ../../../lib/libgtest.a ../../../lib/libgmock.a ../../../lib/libgtest_main.a ../../../lib/libgtest.a 

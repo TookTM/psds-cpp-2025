@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/test_check_flags.dir/test.cpp.o -o ../../../tasks/test_check_flags  ../../../lib/libgtest.a ../../../lib/libgmock.a ../../../lib/libgtest_main.a ../../../lib/libgtest.a 

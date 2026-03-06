@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/test_last_of_us.dir/test.cpp.o -o ../../../tasks/test_last_of_us  ../../../lib/libgtest.a ../../../lib/libgmock.a ../../../lib/libgtest_main.a ../../../lib/libgtest.a 

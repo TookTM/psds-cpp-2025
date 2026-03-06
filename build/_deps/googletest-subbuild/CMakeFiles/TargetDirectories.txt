@@ -1,3 +1,0 @@
-/home/bip/repos/psds-cpp-2025/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
-/home/bip/repos/psds-cpp-2025/build/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
-/home/bip/repos/psds-cpp-2025/build/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir
