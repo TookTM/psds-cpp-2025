@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test_rms.dir/test.cpp.o -o ../../../tasks/test_rms  ../../../lib/libgtest.a ../../../lib/libgmock.a ../../../lib/libgtest_main.a ../../../lib/libgtest.a 

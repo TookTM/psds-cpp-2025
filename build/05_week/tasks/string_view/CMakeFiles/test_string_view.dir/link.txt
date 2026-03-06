@@ -1,0 +1,1 @@
+/usr/bin/c++ -fsanitize=address,undefined CMakeFiles/test_string_view.dir/test.cpp.o -o ../../../tasks/test_string_view  ../../../lib/libgtest.a ../../../lib/libgmock.a ../../../lib/libgtest_main.a ../../../lib/libgtest.a 
